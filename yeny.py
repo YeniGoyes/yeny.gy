@@ -12,7 +12,6 @@ print("A*X= B - Z")
 
 print("X= (B - Z)/A")
 
-
 #Definir A,B Y C#
 
 A= int(input("Ingrese el valor de A: "))
@@ -30,6 +29,7 @@ Z= float(input("Ingrese el valor de Z: "))
 X= (B - Z)/A
 
 print("El valor de X es:", X)
+
 
 
 
