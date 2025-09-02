@@ -6,7 +6,7 @@
 
 print("Resolver X")
 
-print("AX= B-Z")
+print("A*X= B-Z")
 
 #Despejar X#
 
@@ -30,6 +30,7 @@ Z= float(input("Ingrese el valor de Z: "))
 X= (B-Z)/A
 
 print("El valor de X es:", X)
+
 
 
 
