@@ -6,11 +6,11 @@
 
 print("Resolver X")
 
-print("A*X= B-Z")
+print("A*X= B - Z")
 
 #Despejar X#
 
-print("X= (B-Z)/A")
+print("X= (B - Z)/A")
 
 
 #Definir A,B Y C#
@@ -27,9 +27,10 @@ Z= float(input("Ingrese el valor de Z: "))
 
 #Resolver la ecuación#
 
-X= (B-Z)/A
+X= (B - Z)/A
 
 print("El valor de X es:", X)
+
 
 
 
